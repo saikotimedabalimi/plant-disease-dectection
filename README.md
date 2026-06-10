@@ -340,7 +340,18 @@ python main.py
 
 ---
 
+# 📸 Screenshots
 
+### Home Page
+(Add Screenshot Here)
+
+### Upload Image Page
+(Add Screenshot Here)
+
+### Prediction Result Page
+(Add Screenshot Here)
+
+---
 
 # 🔮 Future Enhancements
 
